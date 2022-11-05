@@ -11,6 +11,6 @@ int main(void) {
         amount++;
     }
 
-    printf("%d", amount);
+    printf("%d\n", amount);
     return 0;
 }

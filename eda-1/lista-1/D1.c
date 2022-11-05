@@ -14,8 +14,8 @@ int main(void) {
         if (strcmp(random_word, chosen_word) == 0) flag = true;
     }
 
-    if (flag) printf("Leonardo Cicero Marciano");
-    else printf("none");
+    if (flag) printf("Leonardo Cicero Marciano\n");
+    else printf("none\n");
 
     return 0;
 }
