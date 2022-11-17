@@ -23,7 +23,6 @@ int main(void) {
 
         if(index + current_line <= num_lines && index + current_line >= 0) current_line += index;
         
-
         for(int i = current_column; i >= 0; i--) {
             if(text[current_line][i] != 0 && text[current_line][i] != 10) {
                 printf("%d %d %c\n", current_line + 1, i + 1, text[current_line][i]);
