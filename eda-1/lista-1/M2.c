@@ -9,7 +9,7 @@ int main(void) {
     char text[1000][1002] = { 0 }, up_keyword[] = {'k', '\0'}, down_keyword[] = {'j', '\0'}, current_keyword[2], index = 0;
 
     for(int i = -1; i < num_lines; i++) {
-        fgets(text[i], 4096, stdin);
+        fgets(text[i], 1002, stdin);
     }
 
     scanf(" %d %d", &current_line, &current_column);
@@ -22,7 +22,7 @@ int main(void) {
         else index = 1;
 
         if(index + current_line <= num_lines && index + current_line >= 0) current_line += index;
-        
+
         for(int i = current_column; i >= 0; i--) {
             if(text[current_line][i] != 0 && text[current_line][i] != 10) {
                 printf("%d %d %c\n", current_line + 1, i + 1, text[current_line][i]);
