@@ -41,5 +41,5 @@ int main(void) {
     mergesort(v, 0, n - 1);
 
     for(int i = 0; i < n; i++)
-        printf("%d%s", v[i], i - 1 == n ? "\n" : " ");
+        printf("%d%s", v[i], i == n - 1 ? "\n" : " ");
 }
