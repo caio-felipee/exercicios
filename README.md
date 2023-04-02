@@ -12,6 +12,6 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
     - Matéria focada na programação para competição.
 
 - `tep-2` **- Técnicas em Programação**
-    - Realizada no terceiro semestre(2023.1).
+    - Realizada no terceiro semestre (2023.1).
     - Conteúdo ministrado: Matemática.
     - Matéria focada na programação para competição.
