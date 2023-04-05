@@ -6,12 +6,12 @@
 using namespace std;
 
 int main(void) {
-    int l, r;
+    long long int l, r;
 
     cin >> l >> r;
 
-    int x = l ^ r;
-    int ans = 1;
+    long long int x = l ^ r;
+    long long int ans = 1;
 
     while(ans <= x)
         ans = ans << 1;
