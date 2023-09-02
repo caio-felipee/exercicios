@@ -6,12 +6,25 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
 - `eda-1` **- Estrutura de Dados e Algoritmos 1**
     - Realizada no segundo semestre (2022.2).
 
-- `tep-1` **- Técnicas em Programação**
+- `tep-1` **- Tópicos Especiais em Programação**
     - Realizada no segundo semestre (2022.2).
     - Conteúdo ministrado: Estrutura de Dados e Paradigmas de Resolução de Problemas.
     - Matéria focada na programação para competição.
+    - Competições realizadas:
+        - VII Maratona de Programação do IFB
+        - IV Maratona UnBalloon de Programação
 
-- `tep-2` **- Técnicas em Programação**
+- `tep-2` **- Tópicos Especiais em Programação**
     - Realizada no terceiro semestre (2023.1).
     - Conteúdo ministrado: Matemática.
     - Matéria focada na programação para competição.
+    - Competições realizadas:
+        - Maratona UnB/UDESC de Programação
+        - Seletiva UnB para a Maratona SBC de Programação 2023
+
+- `tep-3` **- Tópicos Especiais em Programação**
+    - Realizada no quarto semestre (2023.2).
+    - Conteúdo ministrado: Grafos.
+    - Matéria focada na programação para competição.
+    - Competições realizadas:
+        - 2023 ICPC South America/Brazil First Phase
