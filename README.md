@@ -21,6 +21,7 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
     - Competições realizadas:
         - Maratona UnB/UDESC de Programação
         - Seletiva UnB para a Maratona SBC de Programação 2023
+        - 2° Fase Zero da Maratona de Programação da SBC
 
 - `tep-3` **- Tópicos Especiais em Programação**
     - Realizada no quarto semestre (2023.2).
