@@ -2,6 +2,12 @@
 
 using namespace std;
 
+#ifdef DEBUG
+#include "../debug/debug.cpp"
+#else
+#define dbg(...)
+#endif
+
 typedef long long ll;
 typedef pair<int, int> ii;
 typedef vector<int> vi;

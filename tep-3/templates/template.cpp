@@ -7,30 +7,41 @@ using namespace __gnu_pbds;
 
 using namespace std;
 
-typedef long long ll;
-typedef pair<int, int> ii;
-typedef vector<int> vi;
-typedef vector<ii> vii;
+#ifdef DEBUG
+#include "../debug/debug.cpp"
+#else
+#define dbg(...)
+#endif
 
+typedef long long ll;
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
+typedef vector<int> vi;
+typedef vector<ll> vl;
+typedef vector<pii> vii;
+typedef vector<pll> vll;
+
+#define fst first
+#define snd second
 #define all(x) x.begin(), x.end()
 #define vin(vt) for (auto &e : vt) cin >> e
 #define LSOne(S) ((S) & -(S))
 #define MSOne(S) (1ull << (63 - __builtin_clzll(S)))
+#define fastio ios_base::sync_with_stdio(0); \
+               cin.tie(0); \
+               cout.tie(0)
 
-auto solve() {
-    
-}
+const vii dir4 {{1,0},{-1,0},{0,1},{0,-1}};
+
+auto solve() {  }
 
 int main() {
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
+    fastio;
 
     ll t = 1;
     //cin >> t;
 
-    while (t--) {
-        solve();
-    }
+    while (t--) solve();
 
     return 0;
 }
