@@ -31,3 +31,8 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
         - 2023 ICPC South America/Brazil First Phase
         - XI Maratona UnB de Programação
         - [VII Maratona de Programação do IFB](https://danielsaad.com/maratona/blog/2023/11/20/8-mdp-ifb-resultados.html)
+
+- [`tep-4`](./tep-4/) **- Tópicos Especiais em Programação**
+    - Realizada no quinto semestre (2024.1).
+    - Conteúdo ministrado: Geometria Computacional.
+    - Matéria focada na programação para competição.
