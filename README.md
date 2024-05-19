@@ -36,6 +36,8 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
     - Realizada no quinto semestre (2024.1).
     - Conteúdo ministrado: Geometria Computacional.
     - Matéria focada na programação para competição.
+    - Competições realizadas:
+        - BRUTE UDESC: Primeira Interna 2024
 
 - [`compiladores`](./compiladores/) **- Compiladores**
     - Realizada no quinto semestre (2024.1)
