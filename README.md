@@ -38,6 +38,7 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
     - Matéria focada na programação para competição.
     - Competições realizadas:
         - BRUTE UDESC: Primeira Interna 2024
+        - [Fase Zero da Maratona de Programação da SBC](https://judge.beecrowd.com/pt/users/contest/836)
 
 - [`compiladores`](./compiladores/) **- Compiladores**
     - Realizada no quinto semestre (2024.1)
