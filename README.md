@@ -39,6 +39,7 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
     - Competições realizadas:
         - BRUTE UDESC: Primeira Interna 2024
         - [Fase Zero da Maratona de Programação da SBC](https://judge.beecrowd.com/pt/users/contest/836)
+        - [Seletiva UnB 2024](https://danielsaad.com/maratona/blog/2024/06/22/seletiva-unb-2024-resultados.html)
 
 - [`compiladores`](./compiladores/) **- Compiladores**
     - Realizada no quinto semestre (2024.1)
