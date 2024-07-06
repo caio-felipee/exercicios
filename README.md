@@ -44,3 +44,7 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
 - [`compiladores`](./compiladores/) **- Compiladores**
     - Realizada no quinto semestre (2024.1)
     - Resolução de exercícios
+
+- [`fso`](./fso) **- Fundamentos de Sistemas Operacionais**
+    - Realizada no quinto semestre (2024.1)
+    - Resolução de exercícios
