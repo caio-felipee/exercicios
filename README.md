@@ -41,6 +41,14 @@ Repositório destinado para a resolução de exercícios das matérias relaciona
         - [Fase Zero da Maratona de Programação da SBC](https://judge.beecrowd.com/pt/users/contest/836)
         - [Seletiva UnB 2024](https://danielsaad.com/maratona/blog/2024/06/22/seletiva-unb-2024-resultados.html)
 
+- [`tep-5`](.) **- Tópicos Especiais em Programação**
+    - Realizada no sexto semestre (2024.2)
+    - Conteúdo ministrado: Strings
+    - Matéria focada na programação para competição.
+    - Competições realizadas:
+        - 2024 ICPC South America/Brazil First Phase
+        - [XII Maratona UnB de Programação](https://danielsaad.com/maratona/blog/2024/11/04/12-mdp-unb-resultados.html)
+
 - [`compiladores`](./compiladores/) **- Compiladores**
     - Realizada no quinto semestre (2024.1)
     - Resolução de exercícios
